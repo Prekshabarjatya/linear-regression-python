@@ -22,4 +22,4 @@ By completing these notebooks, you will learn how to:
 2. `/notebooks/02_visualization_seaborn.ipynb` - Explore data visually with Seaborn.
 3. `/notebooks/03_simple_linear_regression_statsmodels.ipynb` - Fit a simple OLS model.
 4. `/notebooks/04_model_interpretation.ipynb` - Interpret slope, intercept, p-values, and R-squared.
-5. `/notebooks/05_evaluation_metrics.ipynb` - Compute MAE, MSE, RMSE, and R².
+5. `/notebooks/05_evaluation_metrics.ipynb` - Compute MAE, MSE, RMSE, and R-squared.
